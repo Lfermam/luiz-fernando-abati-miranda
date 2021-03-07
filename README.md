@@ -1,4 +1,4 @@
-Acadêmico: Luiz Fernando Abati Miranda       
+Acadêmico: Luiz Fernando Abati Miranda
 RA: 09013646
 
 1. O que é o Git?
